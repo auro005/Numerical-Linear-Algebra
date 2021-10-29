@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 29 19:54:49 2021
 
-@author: AUROBINDA
+@author: auro005
 """
 #MAP Method age + gender + degree vs salary
 
