@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 29 19:28:39 2021
 
-@author: AUROBINDA
+@author: auro005
 """
 
 #MLE Method Salary(Gender,Degree,Age)
